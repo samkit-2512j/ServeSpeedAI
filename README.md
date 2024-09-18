@@ -7,7 +7,7 @@ SpeedServAI is a machine learning project that tracks tennis players' speed, pos
 1. Clone the git repo :
    ```bash
    git clone https://github.com/samkit-2512j/ServeSpeedAI.git
-   cd SpeedServ---AI
+   cd ServeSpeedAI
 
 2. Create the conda environment (tennis in this case) using the provided `env.yml` file and activate it:
    
